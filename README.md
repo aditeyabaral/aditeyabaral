@@ -20,7 +20,7 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India. A s
 <a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /></a>
 
-# 🔧 Tools
+## 🔧 Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></a>
