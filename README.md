@@ -48,5 +48,7 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India. A s
 
 ## 🏆 GitHub Stats
 ![Aditeya Baral's Github stats](https://github-readme-stats.vercel.app/api?username=aditeyabaral&count_private=true&theme=tokyonight)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditeyabaral&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditeyabaral&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
