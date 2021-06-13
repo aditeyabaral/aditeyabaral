@@ -44,8 +44,7 @@ I'm a Computer Science Junior pursuing my B.Tech from PES University, India. A s
 <a href="http://bit.ly/hackerspace-discord"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href = "https://twitter.com/aditeyabaral01" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 <a href="https://www.reddit.com/user/aditeyabaral"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
-<a href="https://t.me/aditeyabaral"><img alt="Reddit" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-<a href="https://www.facebook.com/aditeyabaral"><img alt="Reddit" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" /></a>
+<a href="https://t.me/aditeyabaral"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 ## 🏆 GitHub Stats
 ![Aditeya Baral's Github stats](https://github-readme-stats.vercel.app/api?username=aditeyabaral&count_private=true&theme=tokyonight)
