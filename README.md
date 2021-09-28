@@ -1,6 +1,6 @@
 # Hello, I am Aditeya Baral <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-I'm a Computer Science Junior pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of Machine Learning and AI with a knack for Natural Language Processing.
+I'm a Computer Science Senior pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of Machine Learning and AI with a knack for Natural Language Processing.
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
