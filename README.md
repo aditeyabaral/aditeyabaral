@@ -1,4 +1,4 @@
-# Hello, I am Aditeya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+# Hello, I am Aditeya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=30>
 
 <img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">  
 
@@ -6,6 +6,8 @@
 <p align="left">💻 Previously a Machine Learning Intern at Intel Corporation, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering (spec. in Machine Intelligence and Data Science) from PES University, Bengaluru, India </p>
 <p align="left">📈 Machine Learning, Deep Learning, Data Analytics and Natural Language Processing</p>
+
+<br><br>
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
@@ -82,8 +84,4 @@ https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apache
 
 <a href=""><img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditeyabaral&theme=github_dark" /></a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditeyabaral&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditeyabaral&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<img alt="Aditeya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aditeyabaral&theme=github"/>
+<a href=""><img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditeyabaral&theme=github_dark&utcOffset=8" /></a>
