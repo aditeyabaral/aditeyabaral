@@ -2,7 +2,7 @@
 
 <img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">  
 
-<p align="left">💻 Software Engineer - Analytics and APIs at Cisco Systems, Bengaluru, India </p>
+<p align="left">💻 Software Engineer - VideoMesh Analytics and APIs at Cisco Systems, Bengaluru, India </p>
 <p align="left">💻 Previously a Machine Learning Intern at Intel Corporation, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering (spec. in Machine Intelligence and Data Science) from PES University, Bengaluru, India </p>
 <p align="left">📈 Machine Learning, Deep Learning, Data Analytics and Natural Language Processing</p>
