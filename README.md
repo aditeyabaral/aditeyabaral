@@ -78,10 +78,12 @@ https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apache
 
 ## 🏆 GitHub Stats
 
-<a href=""><img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditeyabaral&theme=github_dark" /></a>
+<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditeyabaral&theme=github_dark" />
 
-<a href=""><img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditeyabaral&theme=github_dark" /></a>
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditeyabaral&theme=github_dark" />
 
-<a href=""><img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditeyabaral&theme=github_dark" /></a>
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditeyabaral&theme=github_dark" />
 
-<a href=""><img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditeyabaral&theme=github_dark&utcOffset=8" /></a>
+<img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditeyabaral&theme=github_dark" />
+
+<img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditeyabaral&theme=github_dark&utcOffset=8" />
