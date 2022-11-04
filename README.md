@@ -87,3 +87,5 @@ https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apache
 <img alt="" align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditeyabaral&theme=github_dark" />
 
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditeyabaral&theme=github_dark&utcOffset=8" />
+
+[![@aditeyabaral's Holopin board](https://holopin.me/aditeyabaral)](https://holopin.io/@aditeyabaral)
