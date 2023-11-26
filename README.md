@@ -94,6 +94,7 @@ My research interests lie in the field of language-vision understanding and repr
 <a href="https://www.researchgate.net/profile/Aditeya-Baral-2/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 <a href = "http://instagram.com/aditeyabaral" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://discordapp.com/users/543143780925177857/"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+<a href = "https://twitter.com/aditeyabaral01" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 <a href="https://t.me/aditeyabaral"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <details> 
