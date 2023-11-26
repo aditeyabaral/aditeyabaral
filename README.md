@@ -2,7 +2,7 @@
 
 <img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">  
 
-<p align="left">I am an aspiring NLP researcher currently working as a Software Engineer at Cisco Webex. I am inspired by our ability to learn and comprehend languages in various environments and would like to enable machines to develop human-like visual and language understanding. My dream is to build more inclusive language technologies for low-resource and under-represented languages, including code-mixed languages.
+<p align="justify">I am an aspiring NLP researcher currently working as a Software Engineer at Cisco Webex. I am inspired by our ability to learn and comprehend languages in various environments and would like to enable machines to develop human-like visual and language understanding. My dream is to build more inclusive language technologies for low-resource and under-represented languages, including code-mixed languages.
 
 My research interests lie in the field of language-vision understanding and representation learning, with a focus on creating task-agnostic architectures to advance natural language understanding and related applications.
 
