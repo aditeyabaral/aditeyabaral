@@ -45,7 +45,10 @@ My research interests lie in the field of language-vision understanding and repr
 
 </details>
 
-## 💾 Big Data and Databases
+<details> 
+<summary> <h2> 💾 Big Data and Databases </h2>
+</summary>
+
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
@@ -58,7 +61,11 @@ My research interests lie in the field of language-vision understanding and repr
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🧰 Tools
+</details>
+
+<details> 
+<summary> <h2> 🧰 Tools </h2>
+</summary>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -70,7 +77,11 @@ My research interests lie in the field of language-vision understanding and repr
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
-## 📦 Libraries and Frameworks
+</details>
+
+<details> 
+<summary> <h2> 📦 Libraries and Frameworks </h2>
+</summary>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -95,7 +106,11 @@ My research interests lie in the field of language-vision understanding and repr
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## ☎️ Contact me 
+</details>
+
+<details> 
+<summary> <h2> ☎️ Contact me  </h2>
+</summary>
 
 <a href = "mailto:aditeya.baral@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/aditeyabaral/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -107,7 +122,11 @@ My research interests lie in the field of language-vision understanding and repr
 <a href="https://www.reddit.com/user/aditeyabaral"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 <a href="https://t.me/aditeyabaral"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
-## 🏆 GitHub Stats
+</details>
+
+<details> 
+<summary> <h2> 🏆 GitHub Stats </h2>
+</summary>
 
 <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditeyabaral&theme=github_dark" />
 
@@ -120,3 +139,5 @@ My research interests lie in the field of language-vision understanding and repr
 <img alt="" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditeyabaral&theme=github_dark&utcOffset=8" />
 
 [![@aditeyabaral's Holopin board](https://holopin.me/aditeyabaral)](https://holopin.io/@aditeyabaral)
+
+</details>
