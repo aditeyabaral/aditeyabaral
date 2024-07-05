@@ -2,8 +2,7 @@
 
 <img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
 
-<p align="justify"> I am an aspiring NLP researcher currently working as a Software Engineer at <img align = "center" src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black"> Webex. 
-
+<p align="justify"> I am an aspiring NLP researcher and a Masters in Computer Science student at New York University, Courant. 
 
 I am inspired by our ability to learn and comprehend languages in various environments and would like to enable machines to develop human-like visual and language understanding. My dream is to build more inclusive language technologies for low-resource and under-represented languages, including code-mixed languages.
 
