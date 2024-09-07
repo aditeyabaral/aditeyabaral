@@ -2,11 +2,11 @@
 
 <img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
 
-<p align="justify"> I am an aspiring NLP researcher and a Masters in Computer Science student at New York University, Courant. 
+<p align="justify"> I am an aspiring NLP researcher and a Masters in Computer Science student at <code>New York University's Courant Institute of Mathematical Sciences</code>.
 
 I am inspired by our ability to learn and comprehend languages in various environments and would like to enable machines to develop human-like visual and language understanding. My dream is to build more inclusive language technologies for low-resource and under-represented languages, including code-mixed languages.
 
-My research interests lie in the field of language-vision understanding and representation learning, with a focus on creating task-agnostic architectures to advance natural language understanding and related applications.</p>
+My research interests lie in the field of <code>language-vision understanding</code> and <code>representation learning</code>, with a focus on creating task-agnostic architectures to advance natural language understanding and related applications.</p>
 
 ## 👨‍💻 Languages
 
@@ -34,7 +34,7 @@ My research interests lie in the field of language-vision understanding and repr
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
-## 💾 Big Data and Databases
+## 💾 Big Data and Cloud
 
 ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
@@ -92,9 +92,7 @@ My research interests lie in the field of language-vision understanding and repr
 <a href="https://www.kaggle.com/aditeyabaral"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
 <a href="https://www.researchgate.net/profile/Aditeya-Baral-2/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 <a href = "http://instagram.com/aditeyabaral" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/543143780925177857/"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href = "https://twitter.com/aditeyabaral01" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
-<a href="https://t.me/aditeyabaral"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
 <details> 
 <summary> <h2> 🏆 GitHub Stats </h2>
