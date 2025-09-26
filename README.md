@@ -2,11 +2,11 @@
 
 <img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
 
-<p align="justify"> I am an aspiring NLP researcher and a Masters in Computer Science student at <code>New York University's Courant Institute of Mathematical Sciences</code>.
+<p align="justify"> I am an NLP researcher and a Masters in Computer Science student at <code>New York University's Courant Institute of Mathematical Sciences</code>.
 
-I am inspired by our ability to learn and comprehend languages in various environments and would like to enable machines to develop human-like visual and language understanding. My dream is to build more inclusive language technologies for low-resource and under-represented languages, including code-mixed languages.
+I am fascinated by our ability to learn and comprehend languages in diverse settings, and I am particularly interested in understanding how languages are transformed into internal abstract ideas and representations. My goal is to enable machines to develop human-like language understanding and reasoning. 
 
-My research interests lie in the field of <code>language-vision understanding</code> and <code>representation learning</code>, with a focus on creating task-agnostic architectures to advance natural language understanding and related applications.</p>
+My research primarily focuses on <code>language understanding</code>, <code>reasoning</code>, and <code>interpretability</code>. My work spans representation learning, pre-training, and transfer learning techniques, with a focus on studying the training and inference dynamics of language models – how they encode and represent knowledge, apply it to solve tasks, and how we can control and interpret their internal representations.</p>
 
 ## 👨‍💻 Languages
 
@@ -25,6 +25,9 @@ My research interests lie in the field of <code>language-vision understanding</c
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF6E1F?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=for-the-badge&logo=LangChain&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-570094?style=for-the-badge&logo=Weights%20%26%20Biases&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -64,6 +67,7 @@ My research interests lie in the field of <code>language-vision understanding</c
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
@@ -77,6 +81,8 @@ My research interests lie in the field of <code>language-vision understanding</c
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
