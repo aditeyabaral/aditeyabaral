@@ -2,11 +2,11 @@
 
 <img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
 
-<p align="justify"> I am an NLP researcher and a Masters in Computer Science student at <code>New York University's Courant Institute of Mathematical Sciences</code>.
+<p align="justify"> I am an NLP researcher and a Master's in Computer Science student at New York University's <code>Courant Institute of Mathematics, Computing and Data Science</code>.
 
-I am fascinated by our ability to learn and comprehend languages in diverse settings, and I am particularly interested in understanding how languages are transformed into internal abstract ideas and representations. My goal is to enable machines to develop human-like language understanding and reasoning. 
+I am fascinated by our ability to learn and comprehend languages in diverse settings, specifically in understanding how languages are transformed into internal abstract ideas and representations. My goal is to uncover the principles underlying how machines learn to understand and reason with language.
 
-My research primarily focuses on <code>language understanding</code>, <code>reasoning</code>, and <code>interpretability</code>. My work spans representation learning, pre-training, and transfer learning techniques, with a focus on studying the training and inference dynamics of language models – how they encode and represent knowledge, apply it to solve tasks, and how we can control and interpret their internal representations.</p>
+My research primarily focuses on language understanding, reasoning, and interpretability. My interests span across representation learning, pre-training, and transfer learning, with a focus on studying the training and inference dynamics of language models – how they encode and represent knowledge, apply it to solve tasks, and how we can control and interpret their internal representations.</p>
 
 ## 👨‍💻 Languages
 
@@ -20,6 +20,7 @@ My research primarily focuses on <code>language understanding</code>, <code>reas
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## 🤖 Machine Learning and Statistics
 
@@ -36,6 +37,8 @@ My research primarily focuses on <code>language understanding</code>, <code>reas
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154f3c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-7db0bc?style=for-the-badge&logo=python&logoColor=white)
 
 ## 💾 Big Data and Cloud
 
@@ -43,6 +46,9 @@ My research primarily focuses on <code>language understanding</code>, <code>reas
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A)
+![Apache Zookeeper](https://img.shields.io/badge/Apache%20Zookeeper-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-0071C5?style=for-the-badge&logo=apache&logoColor=white)
+![Apache Pinot](https://img.shields.io/badge/Apache%20Pinot-D2002A?style=for-the-badge&logo=apache&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
@@ -50,6 +56,7 @@ My research primarily focuses on <code>language understanding</code>, <code>reas
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 ## 🧰 Tools
 
@@ -74,6 +81,7 @@ My research primarily focuses on <code>language understanding</code>, <code>reas
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
