@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
-  <img src="assets/mechinterp.gif" width="500">
+  <img src="assets/mechinterp.gif" width="400">
 </p>
 
 <p align="justify"> I am an NLP researcher and a Master's in Computer Science student at New York University's <code>Courant Institute of Mathematics, Computing and Data Science</code>.
