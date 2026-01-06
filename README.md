@@ -1,6 +1,8 @@
 # Hello, I am Aditeya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=30>
 
-<img align = "center" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
+<img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
+<img align = "right" src="assets/mechinterp.gif" width=200>
+
 
 <p align="justify"> I am an NLP researcher and a Master's in Computer Science student at New York University's <code>Courant Institute of Mathematics, Computing and Data Science</code>.
 
