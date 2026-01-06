@@ -4,7 +4,7 @@
 
 <p align="justify"> I am an NLP researcher and a Master's in Computer Science student at New York University's <code>Courant Institute of Mathematics, Computing and Data Science</code>.
 
-I am fascinated by our ability to learn and comprehend languages in diverse settings, specifically in understanding how languages are transformed into internal abstract ideas and representations. My goal is to uncover the principles underlying how machines learn to understand and reason with language.
+I am fascinated by our ability to learn and comprehend languages in diverse settings, specifically in understanding how languages are transformed into internal abstract ideas and representations. My goal is to uncover the principles underlying how machines learn, understand, and reason with language.
 
 My research primarily focuses on language understanding, reasoning, and interpretability. My interests span across representation learning, pre-training, and transfer learning, with a focus on studying the training and inference dynamics of language models – how they encode and represent knowledge, apply it to solve tasks, and how we can control and interpret their internal representations.</p>
 
@@ -104,8 +104,6 @@ My research primarily focuses on language understanding, reasoning, and interpre
 <a href = "mailto:aditeya.baral@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.linkedin.com/in/aditeyabaral/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.kaggle.com/aditeyabaral"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" /></a>
-<a href="https://www.researchgate.net/profile/Aditeya-Baral-2/"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
-<a href = "http://instagram.com/aditeyabaral" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href = "https://twitter.com/aditeyabaral01" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
 
 <details> 
