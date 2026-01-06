@@ -1,15 +1,15 @@
 # Hello, I am Aditeya <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width=30>
 
-<img align = "left" src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
-<img align = "center" src="assets/mechinterp.gif" width=500>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lhl/pusheen-stickers/master/gif/pusheen/144884865685780.gif">
+  <img src="assets/mechinterp.gif" width="500">
+</p>
 
 <p align="justify"> I am an NLP researcher and a Master's in Computer Science student at New York University's <code>Courant Institute of Mathematics, Computing and Data Science</code>.
 
 I am fascinated by our ability to learn and comprehend languages in diverse settings, specifically in understanding how languages are transformed into internal abstract ideas and representations. My goal is to uncover the principles underlying how machines learn, understand, and reason with language.
 
 My research primarily focuses on language understanding, reasoning, and interpretability. My interests span across representation learning, pre-training, and transfer learning, with a focus on studying the training and inference dynamics of language models – how they encode and represent knowledge, apply it to solve tasks, and how we can control and interpret their internal representations.</p>
-
-
 
 ## 👨‍💻 Languages
 
